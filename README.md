@@ -1,2 +1,2 @@
-# kkpro-01
+# AIUEO
 Keisuke project 01
